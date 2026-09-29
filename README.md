@@ -1,6 +1,3 @@
-Here is your fully updated, professional `README.md` for GitHub, incorporating the hardware directories for your `commandcentre` and `rover` firmware:
-
-```markdown
 # 🛰️ Project NEXUS: Digital Twin Disaster Response & Autonomous Routing System
 
 **Project NEXUS** is an end-to-end, real-time digital twin disaster response and evacuation management system designed for tactical operations in Perak Tengah. It bridges physical Internet of Things (IoT) hardware sensors, an MQTT communication broker, a local AI-driven Natural Language Processing (NLP) engine, machine learning regression models, and a GIS-enabled Streamlit command console to automate crisis logistics and autonomous rover dispatch.
